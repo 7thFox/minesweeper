@@ -1,8 +1,8 @@
-== How to play ==
+# How to play
 
 `make run`
 
-== Controls ==
+# Controls
 
 Arrows/WASD to move cursor
 Enter to clear a space
